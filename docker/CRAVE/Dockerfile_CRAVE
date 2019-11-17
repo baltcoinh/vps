@@ -21,8 +21,8 @@ MAINTAINER 			 Florian Maier <contact@marsmenschen.com>
 
 ENV CONTAINER_USER   masternode
 ENV PROJECT          crave
-ENV GIT_URL          git://github.com/CooleRRSA/crave.git
-ENV SVC_VERSION      tags/v2.1.0.0
+ENV GIT_URL          https://github.com/Crave-Community-Project/Crave-Project.git
+ENV SVC_VERSION      tags/v2.5.2
 ENV HOME_DIR         /usr/local/bin
 ENV NODE_PORT        7209
 ENV REFRESHED_AT     2017-07-27
